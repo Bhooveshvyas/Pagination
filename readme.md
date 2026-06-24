@@ -167,7 +167,6 @@ Using a fixed snapshot time guarantees a consistent browsing experience.
 Given more time, I would:
 
 * Add automated tests
-* Add API documentation using Swagger/OpenAPI
 * Add request validation
 * Add caching for frequently accessed queries
 * Add monitoring and logging
