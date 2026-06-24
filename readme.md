@@ -1,9 +1,6 @@
 # CodeVector Backend Assignment
 
 ## Overview
-
-This project is a backend service built for the CodeVector Internship Take-Home Task.
-
 The system allows users to browse a large dataset of products (~200,000 records), filter products by category, and paginate efficiently using cursor-based pagination.
 
 The implementation focuses on correctness, scalability, and consistency while data is changing.
