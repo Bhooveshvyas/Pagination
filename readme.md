@@ -1,4 +1,4 @@
-#High-Performance REST API with Cursor Pagination
+# High-Performance REST API with Cursor Pagination
 
 ## Overview
 The system allows users to browse a large dataset of products (~200,000 records), filter products by category, and paginate efficiently using cursor-based pagination.
